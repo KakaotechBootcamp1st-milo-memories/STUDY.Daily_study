@@ -1,3 +1,4 @@
+# 강의자: 홍석용(dennis.hong)
 # Cgroup
 Cgroup(Control Group)은 리눅스 커널에서 프로세스와 자원을 관리하기 위한 메커니즘
 Cgroup v2는 Cgroup v1의 단점을 개선하고 더 일관된 인터페이스 제공을 위한 최신 버전
